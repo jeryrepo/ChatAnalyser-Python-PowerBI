@@ -1,5 +1,8 @@
 # WhatsApp Chat Analysis
 
+![SharedScreenshot](https://github.com/jeryrepo/ChatAnalyser-Python-PowerBI/assets/142509067/ab79b8ae-125a-4f2b-a6c6-e93dac3225c9)
+
+
 ## Overview
 This Python script analyzes and visualizes WhatsApp chat data, providing insights into message sentiment, chat activity, and frequently used words. The script processes a WhatsApp chat file, performs text preprocessing, sentiment analysis, and generates visualizations for a comprehensive understanding of the chat dynamics.
 
